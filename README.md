@@ -1,11 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0077B5&center=true&vCenter=true&width=800&lines=¡Hola!+Soy+Ángel+Arencibia;Desarrollador+de+Software+en+formación;Estudiante+de+2º+de+DAM;Futuro+Especialista+en+Ciberseguridad" alt="Typing SVG" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f638df.gif" width="250" alt="Hacker Animado" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=%C3%81ngel%20Arencibia&fontSize=65&fontColor=ffffff&desc=Desarrollador%20de%20Software%20%7C%20Futuro%20Especialista%20en%20Ciberseguridad&descSize=22&descAlignY=75" alt="Banner Animado de Ángel" />
 </div>
 
 <p align="center">
