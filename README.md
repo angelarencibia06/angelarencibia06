@@ -19,7 +19,7 @@
 
 ### 👨‍💻 Un poco sobre mí
 
-¡Hola! Bienvenidos a mi GitHub. Soy de Las Palmas de Gran Canaria y me gusta la programación, aprender cosas nuevas y pelearme con el código hasta que por fin compila sin errores. 
+¡Hola! Bienvenidos a mi GitHub. Soy de Las Palmas de Gran Canaria y me gusta la programación, aprender cosas nuevas y seguir creciendo en el ámbito de la Informática. 
 
 - 🎓 **Formación:** Estoy terminando 2º de **DAM (Desarrollo de Aplicaciones Multiplataforma)** en el IES El Rincón.
 - 💼 **FP Dual:** He tenido la suerte de hacer el ciclo en modalidad Dual. Esto me está sirviendo muchísimo para ver cómo es el trabajo real en una empresa y aplicar lo que vemos en clase directamente en la práctica.
