@@ -17,26 +17,26 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%" alt="Separador Animado">
 </div>
 
-### 👨‍💻 Sobre mi viaje en la tecnología
+### 👨‍💻 Un poco sobre mí
 
-¡Bienvenido a mi espacio en GitHub! Soy un desarrollador en constante evolución, originario de Las Palmas de Gran Canaria. Me apasiona resolver problemas complejos, encontrar fallos ocultos y escribir código limpio y eficiente. Actualmente, me encuentro dando mis primeros pasos en el mundo laboral mientras termino mi formación.
+¡Hola! Bienvenidos a mi GitHub. Soy de Las Palmas de Gran Canaria y me gusta la programación, aprender cosas nuevas y pelearme con el código hasta que por fin compila sin errores. 
 
-- 🎓 **Formación:** Cursando el 2º año de **Desarrollo de Aplicaciones Multiplataforma (DAM)**.
-- 💼 **Actualmente:** ¡Realizando mis prácticas de empresa (FCT)! Aplicando mis conocimientos en un entorno real y aportando valor desde el primer día en una empresa innovadora.
-- 🛡️ **Siguiente nivel:** Iniciar mi especialización en **Ciberseguridad** el próximo año.
-- 💡 **Intereses:** Arquitectura de software, análisis de vulnerabilidades, hacking ético y desarrollo Backend.
+- 🎓 **Formación:** Estoy terminando 2º de **DAM (Desarrollo de Aplicaciones Multiplataforma)** en el IES El Rincón.
+- 💼 **FP Dual:** He tenido la suerte de hacer el ciclo en modalidad Dual. Esto me está sirviendo muchísimo para ver cómo es el trabajo real en una empresa y aplicar lo que vemos en clase directamente en la práctica.
+- 🤝 **Mis Soft Skills:** Gracias a la Dual y a los trabajos de clase, he aprendido la importancia del **trabajo en equipo** y la buena comunicación. Me considero resolutivo a la hora de buscar fallos y me adapto rápido a los cambios.
+- 🛡️ **Siguiente paso:** Cuando termine DAM, mi objetivo principal es meterme de lleno a estudiar y especializarme en **Ciberseguridad**.
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%" alt="Separador Animado">
 </div>
 
-### 🚀 Mi Arsenal Tecnológico
+### 💻 Tecnologías y Herramientas
 
 <p align="center">
-  <i>Herramientas y tecnologías que utilizo en mi día a día:</i>
+  <i>Lo que suelo usar para programar en el día a día:</i>
 </p>
 
-#### 💻 Lenguajes y Web
+#### Lenguajes y Web
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/badge/XML-005C84?style=for-the-badge&logo=xml&logoColor=white" />
 </p>
 
-#### 🗄️ Bases de Datos y Versiones
+#### Bases de Datos y Versiones
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white" />
@@ -53,7 +53,7 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-#### 🛠️ Entornos de Desarrollo (IDEs)
+#### Entornos de Desarrollo (IDEs)
 <p align="center">
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
@@ -75,5 +75,5 @@
 <div align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" alt="Coding Matrix GIF">
   <br><br>
-  <i>"La programación no se trata solo de lo que sabes, sino de lo que puedes llegar a averiguar."</i>
+  <i>"Aprendiendo a base de ensayo, error y stackoverflow."</i>
 </div>
