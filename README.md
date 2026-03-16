@@ -26,7 +26,6 @@
 
 - 🎓 **Formación:** Estoy terminando 2º de **DAM (Desarrollo de Aplicaciones Multiplataforma)** en el IES El Rincón.
 - 💼 **FP Dual:** He tenido la suerte de hacer el ciclo en modalidad Dual. Esto me está sirviendo muchísimo para ver cómo es el trabajo real en una empresa y aplicar lo que vemos en clase directamente en la práctica.
-- 🤝 **Mis Soft Skills:** Gracias a la Dual y a los trabajos de clase, he aprendido la importancia del **trabajo en equipo** y la buena comunicación. Me considero resolutivo a la hora de buscar fallos y me adapto rápido a los cambios.
 - 🛡️ **Siguiente paso:** Cuando termine DAM, mi objetivo principal es meterme de lleno a estudiar y especializarme en **Ciberseguridad**.
 
 <div align="center">
