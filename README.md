@@ -24,7 +24,7 @@
 
 ¡Hola! Bienvenidos a mi GitHub. Soy de Las Palmas de Gran Canaria y me gusta la programación, aprender cosas nuevas y seguir creciendo en el ámbito de la Informática. 
 
-- 🎓 **Formación:** Estoy terminando 2º de **DAM (Desarrollo de Aplicaciones Multiplataforma)** en el IES El Rincón.
+- 🎓 **Formación:** Estoy terminando 2º de **DAM** en el IES El Rincón.
 - 💼 **FP Dual:** He tenido la suerte de hacer el ciclo en modalidad Dual. Esto me está sirviendo muchísimo para ver cómo es el trabajo real en una empresa y aplicar lo que vemos en clase directamente en la práctica.
 - 🛡️ **Siguiente paso:** Cuando termine DAM, mi objetivo principal es meterme de lleno a estudiar y especializarme en **Ciberseguridad**.
 
