@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=%C2%A1Hola!+Soy+%C3%81ngel+Arencibia;Desarrollador+de+Software;Estudiante+de+2%C2%BA+de+DAM;Futuro+Especialista+en+Ciberseguridad" alt="Animación Hacker Ángel" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=%C2%A1Hola!+Soy+%C3%81ngel+Arencibia;Desarrollador+de+Software;T%C3%A9cnico+Superior+en+DAM;Estudiante+de+Ciberseguridad" alt="Animación Hacker Ángel" />
   </a>
 </div>
 
@@ -24,9 +24,9 @@
 
 ¡Hola! Bienvenidos a mi GitHub. Soy de Las Palmas de Gran Canaria y me gusta la programación, aprender cosas nuevas y seguir creciendo en el ámbito de la Informática. 
 
-- 🎓 **Formación:** Estoy terminando 2º de **DAM** en el IES El Rincón.
-- 💼 **FP Dual:** He tenido la suerte de hacer el ciclo en modalidad Dual. Esto me está sirviendo muchísimo para ver cómo es el trabajo real en una empresa y aplicar lo que vemos en clase directamente en la práctica.
-- 🛡️ **Siguiente paso:** Cuando termine DAM, mi objetivo principal es meterme de lleno a estudiar y especializarme en **Ciberseguridad**.
+- 🎓 **Formación:** He terminado el grado superior de **DAM** en el IES El Rincón, por lo que ya soy oficialmente Desarrollador de Software.
+- 💼 **FP Dual:** Realicé el ciclo en modalidad Dual. Esto me sirvió muchísimo para ver cómo es el trabajo real en una empresa y aplicar lo que vimos en clase directamente en la práctica.
+- 🛡️ **Siguiente paso:** En septiembre comienzo mi especialización en **Ciberseguridad** para seguir ampliando mis conocimientos.
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%" alt="Separador Animado">
@@ -64,12 +64,6 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%" alt="Separador Animado">
-</div>
-
-### ⚡ Radar de Actividad
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=angelarencibia06&label=Visitas+a+mi+perfil&color=00FF41&style=for-the-badge" alt="Contador de visitas" />
 </div>
 
 <br>
